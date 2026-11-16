@@ -1,4 +1,4 @@
-# ResourceSpace (Montala)
+# ResourceSpace
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,116 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ResourceSpace (Montala) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://resourcespace.com/
+ResourceSpace provides open source digital asset management (DAM) software that enables organisations to organise, control, integrate and share digital assets. It serves museums, academic institutions, charities, public sector bodies, brand and product teams, and other organisations that need secure, searchable, and customizable asset management solutions.
+
+**Areas:** Digital Asset Management · Open Source · DAM · Media Management · Ethical
+
+## ResourceSpace on APIs.io
+
+Everything profiled for ResourceSpace is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/resourcespace/](https://apis.io/providers/resourcespace/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [ResourceSpace API](https://apis.io/apis/resourcespace/resourcespace-api-2/) — Developer documentation for ResourceSpace API, describing available endpoints and usage.
+- [ResourceSpace API](https://apis.io/apis/resourcespace/resourcespace-api/) — ResourceSpace API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-11-16); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [PostFindSimilarFacesRequest](https://apis.io/schemas/resourcespace/resourcespace-post-find-similar-faces-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Resourcespace Context](https://apis.io/jsonld/resourcespace/resourcespace-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [ResourceSpace API Rules](https://apis.io/rules/resourcespace/resourcespace-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [ResourceSpace Domain Security](https://apis.io/security/resourcespace/resourcespace-domain-security/)
+- [ResourceSpace Trust Center](https://apis.io/security/resourcespace/resourcespace-trust-center/)
+- [ResourceSpace Vulnerability Disclosure](https://apis.io/security/resourcespace/resourcespace-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://resourcespace.com/)
+- [Getting started](https://www.resourcespace.com/getting-started)
+- [Pricing](https://www.resourcespace.com/pricing)
+- [Support](https://www.resourcespace.com/help)
+- [Blog](https://www.resourcespace.com/blog)
+- [Security](https://www.resourcespace.com/features/security)
+- [Compliance](https://www.resourcespace.com/knowledge-base/search.php?search=security&uri=%2Fsecurity)
+- [Terms of service](https://www.resourcespace.com/terms)
+- [Privacy policy](https://www.resourcespace.com/privacy)
+- [GitHub](https://github.com/resourcespace)
+
+## API Evangelist rating
+
+**Kin Score 48.8** — developing · rubric 0.27.0 · scored 2026-11-16
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 40.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 28.9 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 60.5 |
+
+**Agent readiness 19.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/resourcespace/](https://apis.io/providers/resourcespace/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ResourceSpace: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/resourcespace/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
